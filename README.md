@@ -11,5 +11,8 @@ Bandit Level 2 → Level 3: password: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 Bandit Level 3 → Level 4: password: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 
+Bandit Level 4 → Level 5: password: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+
+
 
 
