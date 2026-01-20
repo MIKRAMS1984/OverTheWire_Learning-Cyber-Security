@@ -27,7 +27,7 @@ Level 10: password: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 
 Level 11: password: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 
-Level 12: password:
+Level 12: password: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
 
 Level 13: password:
 
