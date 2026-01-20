@@ -17,6 +17,8 @@ Level 5: password: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 
 Level 6: password: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 
+Level 7: password: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+
 
 
 
