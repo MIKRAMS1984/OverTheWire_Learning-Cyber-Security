@@ -33,7 +33,7 @@ Level 13: password: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 
 Level 14: password: MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 
-Level 15: password:
+Level 15: password: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
 
 Level 16: password:
 
