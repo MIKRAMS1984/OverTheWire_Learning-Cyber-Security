@@ -35,7 +35,7 @@ Level 14: password: MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 
 Level 15: password: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
 
-Level 16: password:
+Level 16: password: kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
 
 Level 17: password:
 
