@@ -43,9 +43,9 @@ Level 18: password: x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO
 
 Level 19: password: cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8
 
-Level 20: password:
+Level 20: password: 0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO
 
-Level 21: password:
+Level 21: password: 
 
 Level 22: password:
 
