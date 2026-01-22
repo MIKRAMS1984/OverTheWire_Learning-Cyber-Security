@@ -41,7 +41,7 @@ Level 17: password: EReVavePLFHtFlFsjn3hyzMlvSuSAcRD
 
 Level 18: password: x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO
 
-Level 19: password:
+Level 19: password: cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8
 
 Level 20: password:
 
