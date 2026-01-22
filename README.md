@@ -47,7 +47,7 @@ Level 20: password: 0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO
 
 Level 21: password: EeoULMCra2q0dSkYj561DX7s1CpBuOBt
 
-Level 22: password:
+Level 22: password: tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q
 
 Level 23: password:
 
