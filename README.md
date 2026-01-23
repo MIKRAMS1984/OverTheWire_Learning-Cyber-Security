@@ -53,9 +53,9 @@ Level 23: password: 0Zf11ioIjMVN551jX3CmStKLYqjk54Ga
 
 Level 24: password: gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8
 
-Level 25: password: iCi86ttT4KSNe1armKiwbQNmB3YJP3q4              iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
+Level 25: password: iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
 
-Level 26: password: 
+Level 26: password: s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ
 
 Level 27: password:
 
