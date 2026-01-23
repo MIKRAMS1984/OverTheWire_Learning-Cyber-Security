@@ -51,7 +51,7 @@ Level 22: password: tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q
 
 Level 23: password: 0Zf11ioIjMVN551jX3CmStKLYqjk54Ga
 
-Level 24: password:
+Level 24: password: gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8
 
 Level 25: password:
 
