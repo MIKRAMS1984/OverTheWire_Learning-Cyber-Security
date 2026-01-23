@@ -59,7 +59,7 @@ Level 26: password: s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ
 
 Level 27: password: upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB
 
-Level 28: password:
+Level 28: password: Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN
 
 Level 29: password:
 
@@ -72,27 +72,3 @@ Level 32: password:
 Level 33: password:
 
 Level 34: password:
-
-Level 35: password:
-
-Level 36: password:
-
-Level 37: password:
-
-Level 38: password:
-
-Level 39: password:
-
-Level 40: password:
-
-
-                    
-
-
-
-
-
-
-
-
-
