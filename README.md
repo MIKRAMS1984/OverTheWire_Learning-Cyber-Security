@@ -57,7 +57,7 @@ Level 25: password: iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
 
 Level 26: password: s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ
 
-Level 27: password:
+Level 27: password: upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB
 
 Level 28: password:
 
