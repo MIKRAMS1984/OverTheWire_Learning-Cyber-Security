@@ -61,7 +61,7 @@ Level 27: password: upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB
 
 Level 28: password: Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN
 
-Level 29: password:
+Level 29: password: 4pT1t5DENaYuqnqvadYs1oE4QLCdjmJ7
 
 Level 30: password:
 
