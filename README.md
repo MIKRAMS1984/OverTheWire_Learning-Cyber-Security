@@ -67,7 +67,7 @@ Level 30: password: qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL
 
 Level 31: password: fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy
 
-Level 32: password:
+Level 32: password: 3O9RfhqyAlVBEZpVb6LYStshZoqoSx5K 
 
 Level 33: password:
 
